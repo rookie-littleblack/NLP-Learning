@@ -1,2 +1,2 @@
 # NLP-Learning
-NLP Learning Project
+This is rookie-littleblack's first NLP learning project...
